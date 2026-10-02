@@ -1,0 +1,21 @@
+Datatypes:
+int- 4 bytes
+char - 1 byte
+float - 4 bytes
+double - 8 bytes
+long - 8 bytes
+short - 4 bytes
+
+Modifiers:
+
+unsigned -> 0 to +ve
+signed -> -ve to +ve
+
+Operators 
+
+Arithmetic: +, -, /, *, %
+Relational / Conditional / comparator <, >, <=, >=, ==, !=
+Logical: &&, ||, !
+Assignment: =, +=, -=, *=, /=, %=
+bitwise: &, |, ^, ~ (Complement), <<, >>
+Ternary: (condition)
