@@ -1,6 +1,0 @@
-1. Understanding distributed systems
-2  System Design interview
-3. Pragmatic Programmer 
-4. Clean Code
-5. clean architecture 
-6. head first design patters
